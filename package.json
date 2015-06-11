@@ -1,0 +1,15 @@
+{
+  "name": "systemjs-builder-spike",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "systemjs-builder": "~0.11.3",
+    "system-css": "0.1.0"
+  },
+  "scripts": {
+    "prepublish": "node build/build.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
